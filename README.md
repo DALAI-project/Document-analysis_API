@@ -3,4 +3,4 @@ This API assumes Annif as local server (by default http://127.0.0.1:5000). The c
 Please use virtual enviroment of your choice. First install tika 
 * https://computingforgeeks.com/how-to-install-apache-tika-on-ubuntu/?expand_article=1
 
-  Install requ.txt
+  Install arkkiivi.txt
