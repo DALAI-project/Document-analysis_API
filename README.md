@@ -6,3 +6,4 @@ Please use virtual enviroment of your choice. First install tika
   Install arkkiivi.txt (like requirements.txt)
   Place  nnrr2.py to your virtual enviroment. Follow the insctructions given by NER component
   
+  
