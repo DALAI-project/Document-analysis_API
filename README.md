@@ -13,4 +13,4 @@ flask  --app ark run --host 101.251.36.10 -p 3001
 
 Now, you should be good to go testing via postman
 
-* Please note that english has limited support to NER, and swedish is not currently supported at all. On the other hand, annif works with these languages also.
+* Please note that english has limited support to NER, and swedish is not currently supported at all. On the other hand, annif supports these languages.
