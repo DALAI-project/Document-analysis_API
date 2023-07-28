@@ -12,4 +12,5 @@ Please use virtual enviroment of your choice. First install tika
 flask  --app ark run --host 101.251.36.10 -p 3001
 
 Now, you should be good to go testing via postman
-Working example: 
+
+* Please note that english has limited support to NER, and swedish is not currently supported at all. On the other hand, annif works with these languages also.
